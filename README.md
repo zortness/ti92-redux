@@ -1,7 +1,7 @@
 # TI-92 Redux
 Bringing the TI-92's back to life.
 
-![First Run](https://raw.github.com/zortness/ti92-redux/main/images/first_run.jpg)
+![First Run](images/first_run.jpg)
 
 ## Intro
 My first graphing calculator and introduction to portable programming was an early TI-85.
@@ -34,7 +34,7 @@ on my 3D printer to work toward getting the correct fitment with the original ch
 
 Most of the SVGs and drawings are included [here](drawings/).
 
-![prototypes](https://raw.github.com/zortness/ti92-redux/main/images/prototype_pieces.jpg)
+![prototypes](images/prototype_pieces.jpg)
 
 ## PCB Design
 The PCB is designed in KiCad 7. The board is designed as a custom keyboard, using a Pi Pico (or Pico W)
@@ -42,9 +42,9 @@ as the keybord controller. The routing is all done by hand with an attempt at ke
 
 Note: The PCB has tabs and holes to hold an SBC that lines up with the Raspberry Pi mounting holes.
 
-![Front](https://raw.github.com/zortness/ti92-redux/main/images/board_rev0_kicad_front.png)
-![Back](https://raw.github.com/zortness/ti92-redux/main/images/board_rev0_kicad_back.png)
-![Manufactured](https://raw.github.com/zortness/ti92-redux/main/images/board_rev0.jpg)
+![Front](images/board_rev0_kicad_front.png)
+![Back](images/board_rev0_kicad_back.png)
+![Manufactured](images/board_rev0.jpg)
 
 ### BOM And Assembly
 * 80 count SOD-123 general purpose diode, [1N4148W-TP](https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196)
