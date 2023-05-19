@@ -1,0 +1,11 @@
+
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*.bak
+ti-92backups/
+*.gbr
+*.gbrjob
+*.drl
+*.gcode
+*.3mf
